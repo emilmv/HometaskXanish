@@ -8,16 +8,18 @@ Console.WriteLine("Hello, World!");
 //Array icinde olan murekkeb ededlerin ededi ortasi
 
 //int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-//int sum = 0;
+//double sum = 0;
+//double count = 0;
 
 //foreach (var item in arr)
 //{
-//    bool isPrime = false;
+//	bool isPrime = false;
 //	for (int i = 2; i < item; i++)
 //	{
 //		if (item % i == 0)
 //		{
 //			isPrime = true;
+//			count++;
 //			break;
 //		}
 //	}
@@ -26,7 +28,7 @@ Console.WriteLine("Hello, World!");
 //		sum += item;
 //	}
 //}
-//Console.WriteLine(sum);
+//Console.WriteLine(sum/count);
 
 #endregion
 #region Task2
