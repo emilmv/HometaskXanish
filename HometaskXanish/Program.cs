@@ -60,19 +60,19 @@ Console.WriteLine("Hello, World!");
 // array icinde unique eded
 
 //int[] arr = { 1, 1, 2, 2, 3, 3, 4, 4, 5, 10, 10 };
-//bool isPrime = true;
+//bool isUnique = true;
 //for (int i = 0; i < arr.Length; i++)
 //{
-//    isPrime= true;
+//    isUnique = true;
 //    for (int j = 0; j < arr.Length; j++)
 //    {
 //        if (i != j && arr[i] == arr[j])
 //        {
-//            isPrime= false;
+//            isUnique = false;
 //            break;
 //        }
 //    }
-//    if (isPrime)
+//    if (isUnique)
 //    {
 //        Console.WriteLine(arr[i]);
 //    }
